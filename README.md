@@ -3,7 +3,9 @@
 ## **_Table of contents_**
 * [Description of the project](#description-of-the-project)
 * [Technologies Used](#technologies-used)
-* [con]
+* [Contributors](#contributors)
+* [Questions](#questions)
+* [License](#license)
 
 
 ## **_Description of the project_**
