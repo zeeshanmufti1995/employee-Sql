@@ -277,7 +277,7 @@ const newRole = () => {
             {
               type: "list",
               name: "roleUpdate",
-              message: chalk.yellow(`Please select new role.`),
+              message: `Please select new role.`,
               choices: roleList,
             },
           ])
