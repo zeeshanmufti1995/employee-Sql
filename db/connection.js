@@ -1,5 +1,4 @@
 const mysql = require("mysql2");
-var password = require('password');
 
 // Connect to database
 const db = mysql.createConnection(
@@ -8,8 +7,8 @@ const db = mysql.createConnection(
       // Your MySQL username,
       user: "root",
       // Your MySQL password
-      password: "password",
-      database: "employedb",
+      password: "Ram.2020",
+      database: "corporate",
     },
     console.log("Connected to the corporate database.")
   );
